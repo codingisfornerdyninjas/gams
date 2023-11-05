@@ -77,3 +77,34 @@ h1 {
     color: white;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+
+
+.ad-uses li {
+    list-style-type:none;
+}
+
+
+
+.ad-uses a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: sans-serif , 'Robotto';
+    font-style: italic;
+
+}
+
+.ad-uses a:hover {
+border-bottom: 2px solid white;
+}
+
+.ad-uses {
+    background-color: black;
+    position: relative;
+    margin-top: 5%;
+    width:60%;
+    margin-left: 20%;
+    display: flex;
+    border: 2px solid white;
+    animation: 1s satis;
+ }
