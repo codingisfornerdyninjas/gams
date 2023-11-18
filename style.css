@@ -15,6 +15,7 @@ body{
     display: flex;
     border: 2px solid white;
     animation: 1s satis;
+    overflow-y: auto;
  }
 
 
