@@ -1,9 +1,0 @@
-User-agent: *
-
-Disallow: /play/
-Disallow: /?*
-Disallow: /cdn-cgi/
-Disallow: /index-gd.php
-Sitemap: https://hole-io.com/sitemap.xml
-
-Host: https://hole-io.com
