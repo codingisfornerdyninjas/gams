@@ -1,0 +1,35 @@
+--2023-11-17 21:39:14--  https://v6p9d9t4.ssl.hwcdn.net/html/2225461/Baldi's%20Web-Based%20Basics%201.4.3%20Edition%201.1.0/index.html?v=1591301774
+Resolving v6p9d9t4.ssl.hwcdn.net (v6p9d9t4.ssl.hwcdn.net)... 69.16.175.42, 69.16.175.10
+Connecting to v6p9d9t4.ssl.hwcdn.net (v6p9d9t4.ssl.hwcdn.net)|69.16.175.42|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2176 (2.1K) [text/html]
+Saving to: 'v6p9d9t4.ssl.hwcdn.net/html/2225461/Baldi\'s Web-Based Basics 1.4.3 Edition 1.1.0/index.html@v=1591301774.tmp'
+
+     0K ..                                                    100% 35.2M=0s
+
+2023-11-17 21:39:14 (35.2 MB/s) - 'v6p9d9t4.ssl.hwcdn.net/html/2225461/Baldi\'s Web-Based Basics 1.4.3 Edition 1.1.0/index.html@v=1591301774.tmp' saved [2176/2176]
+
+Loading robots.txt; please ignore errors.
+--2023-11-17 21:39:14--  https://v6p9d9t4.ssl.hwcdn.net/robots.txt
+Reusing existing connection to v6p9d9t4.ssl.hwcdn.net:443.
+HTTP request sent, awaiting response... 403 Forbidden
+2023-11-17 21:39:14 ERROR 403: Forbidden.
+
+Removing v6p9d9t4.ssl.hwcdn.net/html/2225461/Baldi's Web-Based Basics 1.4.3 Edition 1.1.0/index.html@v=1591301774.tmp since it should be rejected.
+
+--2023-11-17 21:39:14--  https://v6p9d9t4.ssl.hwcdn.net/html/2225461/Baldi's%20Web-Based%20Basics%201.4.3%20Edition%201.1.0/Build/UnityLoader.js
+Reusing existing connection to v6p9d9t4.ssl.hwcdn.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 159236 (156K) [application/javascript]
+Saving to: 'v6p9d9t4.ssl.hwcdn.net/html/2225461/Baldi\'s Web-Based Basics 1.4.3 Edition 1.1.0/Build/UnityLoader.js'
+
+     0K .......... .......... .......... .......... .......... 32% 1.72M 0s
+    50K .......... .......... .......... .......... .......... 64% 2.97M 0s
+   100K .......... .......... .......... .......... .......... 96% 5.09M 0s
+   150K .....                                                 100%  105G=0.05s
+
+2023-11-17 21:39:14 (2.79 MB/s) - 'v6p9d9t4.ssl.hwcdn.net/html/2225461/Baldi\'s Web-Based Basics 1.4.3 Edition 1.1.0/Build/UnityLoader.js' saved [159236/159236]
+
+FINISHED --2023-11-17 21:39:14--
+Total wall clock time: 0.4s
+Downloaded: 2 files, 158K in 0.05s (2.83 MB/s)
