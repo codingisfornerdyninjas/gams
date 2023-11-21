@@ -1,4 +1,4 @@
-read commit-m
+read commitm
 git add .
-git commit -m $commit-m
+git commit -m $commitm
 git push
